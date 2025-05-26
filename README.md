@@ -51,6 +51,3 @@ Los resultados muestran que la reducción de dimensionalidad mediante **PCA** no
 - Notebook con EDA, PCA, selección de características y clustering, gráficos.
 - Dataset utilizado
 - Archivo README
-# RED_WINE
-# RED_WINE
-# RED_WINE_QUALITY
